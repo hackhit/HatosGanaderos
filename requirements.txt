@@ -14,7 +14,7 @@ pyparsing==2.0.3
 pytz==2012rc0
 python-dateutil==2.6.0
 rdflib==4.2.1
-reportlab==3.4.0
+reportlab==3.5.55
 six==1.9.0
 South==0.8.4
 SPADE==2.2.1
